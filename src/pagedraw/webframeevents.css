@@ -1,0 +1,199 @@
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One:|Shanti:');
+
+.webframeevents-webframeevents-0 {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    padding-top: 58px;
+    padding-bottom: 38px;
+    background: rgb(223, 188, 136);
+}
+
+.webframeevents-0 {
+    display: flex;
+    flex-shrink: 0;
+    padding-left: 473px;
+    padding-right: 446px;
+}
+
+.webframeevents-rectangle-0 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 33px;
+    padding-bottom: 44px;
+    box-shadow: 0px 4px 4px 0px rgba(0,0,0,0.25098039215686274);
+    background: rgba(124,59,59,1);
+}
+
+.webframeevents-0-0-0 {
+    display: flex;
+    flex-shrink: 0;
+    padding-left: 172px;
+    padding-right: 67px;
+}
+
+.webframeevents-events-0 {
+    width: 282px;
+    flex-shrink: 0;
+    font-family: "Fjalla One", sans-serif;
+    color: rgba(255,255,255,1);
+    font-size: 64px;
+    line-height: 73px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: LEFT;
+    word-wrap: break-word;
+}
+
+.webframeevents-1 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 29px;
+    padding-left: 70px;
+    padding-right: 144px;
+}
+
+.webframeevents-1-0 {
+    display: flex;
+    flex-direction: column;
+}
+
+.webframeevents-1-0-0 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.webframeevents-1-0-0-0 {
+    width: 1226px;
+    height: 431px;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.webframeevents-image-8 {
+    width: 749px;
+    height: 431px;
+    flex-grow: 1;
+    position: absolute;
+    top: 0px;
+    left: 28px;
+    border-width: 0px;
+}
+
+.webframeevents-wells_fargo_center_4 {
+    width: 328px;
+    flex-grow: 1;
+    position: absolute;
+    top: 62px;
+    left: 863px;
+    font-family: "Shanti", sans-serif;
+    color: rgba(0,0,0,1);
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: LEFT;
+    word-wrap: break-word;
+}
+
+.webframeevents-rectangle_2 {
+    width: 1226px;
+    height: 6px;
+    flex-grow: 1;
+    position: absolute;
+    top: 406px;
+    left: 0px;
+    background: rgba(0,0,0,1);
+}
+
+.webframeevents-2 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 12px;
+    padding-left: 98px;
+    padding-right: 179px;
+}
+
+.webframeevents-2-0 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 25px;
+    padding-bottom: 43px;
+}
+
+.webframeevents-2-0-0 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.webframeevents-image-4 {
+    width: 749px;
+    height: 238px;
+    flex-shrink: 0;
+    border-width: 0px;
+}
+
+.webframeevents-oakleaf_orchard_6 {
+    width: 328px;
+    flex-shrink: 0;
+    margin-left: 86px;
+    font-family: "Shanti", sans-serif;
+    color: rgba(0,0,0,1);
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: LEFT;
+    word-wrap: break-word;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.pd-onhover-parent >.pd-onhover {
+    display: none;
+}
+
+.pd-onhover-parent:hover > * {
+    display: none;
+}
+
+.pd-onhover-parent:hover > .pd-onhover {
+    display: flex;
+}
+
+.pd-onactive-parent > .pd-onactive {
+    display: none;
+}
+
+.pd-onactive-parent:active > * {
+    display: none;
+}
+
+.pd-onactive-parent:active > .pd-onactive {
+    display: flex;
+}
+
+.pd-onactive-parent.pd-onhover-parent:active > .pd-onhover {
+    display: none;
+}

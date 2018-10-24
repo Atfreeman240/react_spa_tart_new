@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One:|Faustina:');
+
+.webframehome-webframehome-0 {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    padding-top: 124px;
+    padding-bottom: 149px;
+    background: rgba(59,35,18,1);
+}
+
+.webframehome-0 {
+    display: flex;
+    flex-shrink: 0;
+    padding-left: 30px;
+    padding-right: 31px;
+}
+
+.webframehome-image-9 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 38px;
+    padding-bottom: 205px;
+    background-image: url('https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/77c4/3da0/3b8ed350e74433819bd2f9f549bc683d');
+    background-size: 100% 100%;
+}
+
+.webframehome-0-0-0 {
+    display: flex;
+    flex-shrink: 0;
+    padding-left: 86px;
+    padding-right: 567px;
+}
+
+.webframehome-0-0-0-0 {
+    width: 726px;
+    height: 508px;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.webframehome-october_2 {
+    width: 726px;
+    flex-grow: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: "Fjalla One", sans-serif;
+    color: rgba(0,0,0,1);
+    font-size: 61px;
+    line-height: 70px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: LEFT;
+    word-wrap: break-word;
+}
+
+.webframehome-rectangle_3 {
+    width: 496px;
+    height: 173px;
+    flex-grow: 1;
+    position: absolute;
+    top: 325px;
+    left: 54px;
+    background: rgba(189,173,173,0.6200000047683716);
+}
+
+.webframehome-experience_a_variety_of_brews_ciders_and_meads_and_visit_our_booth_where_tart_will_unveil_a_new_autumn_cider_-0 {
+    width: 459px;
+    flex-grow: 1;
+    position: absolute;
+    top: 337px;
+    left: 77px;
+    font-family: "Faustina", serif;
+    color: rgba(0,0,0,1);
+    font-size: 30px;
+    line-height: 34px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: LEFT;
+    word-wrap: break-word;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.pd-onhover-parent >.pd-onhover {
+    display: none;
+}
+
+.pd-onhover-parent:hover > * {
+    display: none;
+}
+
+.pd-onhover-parent:hover > .pd-onhover {
+    display: flex;
+}
+
+.pd-onactive-parent > .pd-onactive {
+    display: none;
+}
+
+.pd-onactive-parent:active > * {
+    display: none;
+}
+
+.pd-onactive-parent:active > .pd-onactive {
+    display: flex;
+}
+
+.pd-onactive-parent.pd-onhover-parent:active > .pd-onhover {
+    display: none;
+}

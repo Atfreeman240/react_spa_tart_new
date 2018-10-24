@@ -1,0 +1,367 @@
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One:|Faustina:|Shanti:|Tenor+Sans:');
+
+.webframe-webframe-0 {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    padding-top: 250px;
+    background: rgba(255,255,255,1);
+}
+
+.webframe-0 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.webframe-rectangle_2 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 41px;
+    padding-bottom: 61px;
+    background: rgba(59,35,18,1);
+}
+
+.webframe-0-0-0 {
+    display: flex;
+    flex-shrink: 0;
+    padding-left: 71px;
+    padding-right: 71px;
+}
+
+.webframe-image-7 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 36px;
+    padding-bottom: 158px;
+    background-image: url('https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/6c60/0054/aa62b8a6e3ea0f6f03f99d3734c65ad6');
+    background-size: 100% 100%;
+}
+
+.webframe-0-0-0-0-0 {
+    display: flex;
+    flex-shrink: 0;
+    padding-left: 42px;
+    padding-right: 732px;
+}
+
+.webframe-october_2 {
+    width: 524px;
+    flex-shrink: 0;
+    font-family: "Fjalla One", sans-serif;
+    color: rgba(0,0,0,1);
+    font-size: 21px;
+    line-height: 24px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: LEFT;
+    word-wrap: break-word;
+}
+
+.webframe-0-0-0-0-1 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 41px;
+    padding-left: 99px;
+    padding-right: 703px;
+}
+
+.webframe-0-0-0-0-1-0 {
+    display: flex;
+    flex-direction: column;
+}
+
+.webframe-0-0-0-0-1-0-0 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.webframe-0-0-0-0-1-0-0-0 {
+    width: 496px;
+    height: 183px;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.webframe-rectangle_3 {
+    width: 496px;
+    height: 173px;
+    flex-grow: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background: rgba(189,173,173,0.6200000047683716);
+}
+
+.webframe-experience_a_variety_of_brews_ciders_and_meads_and_visit_our_booth_where_tart_will_unveil_a_new_autumn_cider_-0 {
+    width: 459px;
+    flex-grow: 1;
+    position: absolute;
+    top: 12px;
+    left: 23px;
+    font-family: "Faustina", serif;
+    color: rgba(0,0,0,1);
+    font-size: 30px;
+    line-height: 34px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: LEFT;
+    word-wrap: break-word;
+}
+
+.webframe-1 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.webframe-rectangle-0 {
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0px 4px 4px 0px rgba(0,0,0,0.25098039215686274);
+    background: rgba(149,56,56,1);
+}
+
+.webframe-1-0-0 {
+    display: flex;
+    flex-shrink: 0;
+    padding-left: 105px;
+    padding-right: 1111px;
+}
+
+.webframe-hours_of_operation-0 {
+    width: 224px;
+    flex-shrink: 0;
+    font-family: "Shanti", sans-serif;
+    color: rgba(255,255,255,1);
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: CENTER;
+    word-wrap: break-word;
+}
+
+.webframe-1-0-1 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 7px;
+    padding-left: 10px;
+    padding-right: 59px;
+}
+
+.webframe-1-0-1-0 {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 11px;
+}
+
+.webframe-1-0-1-0-0 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.webframe-monday_2 {
+    width: 235px;
+    flex-shrink: 0;
+    font-family: "Shanti", sans-serif;
+    color: rgba(255,255,255,1);
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: LEFT;
+    word-wrap: break-word;
+}
+
+.webframe-1-0-1-1 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 1px;
+    padding-bottom: 63px;
+}
+
+.webframe-1-0-1-1-0 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.webframe-saturday_1 {
+    width: 183px;
+    flex-shrink: 0;
+    font-family: "Shanti", sans-serif;
+    color: rgba(255,255,255,1);
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: LEFT;
+    word-wrap: break-word;
+}
+
+.webframe-1-0-1-2 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 111px;
+}
+
+.webframe-1-0-1-2-0 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.webframe-1-0-1-2-0-0 {
+    width: 414px;
+    height: 105px;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.webframe-tart-0 {
+    width: 232px;
+    flex-grow: 1;
+    position: absolute;
+    top: 0px;
+    left: 106px;
+    font-family: "Tenor Sans", sans-serif;
+    color: rgba(255,254,253,1);
+    font-size: 48px;
+    line-height: 55px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: CENTER;
+    word-wrap: break-word;
+}
+
+.webframe-_2 {
+    width: 414px;
+    flex-grow: 1;
+    position: absolute;
+    top: 82px;
+    left: 0px;
+    font-family: "Tenor Sans", sans-serif;
+    color: rgba(0,0,0,1);
+    font-size: 13px;
+    line-height: 15px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: CENTER;
+    word-wrap: break-word;
+}
+
+.webframe-1-0-1-3 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+    padding-top: 4px;
+    padding-bottom: 34px;
+}
+
+.webframe-1-0-1-3-0 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.webframe-1-0-1-3-0-0 {
+    width: 378px;
+    height: 67px;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.webframe-subscribe_to_our_newsletter-0 {
+    width: 366px;
+    flex-grow: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: Franklin Gothic Book;
+    color: rgba(255,255,255,1);
+    font-size: 21px;
+    line-height: 24px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: CENTER;
+    word-wrap: break-word;
+}
+
+.webframe-rectangle_2-0 {
+    width: 243px;
+    height: 30px;
+    flex-grow: 1;
+    position: absolute;
+    top: 33px;
+    left: 72px;
+    box-shadow: 0px 4px 4px 0px rgba(0,0,0,0.25098039215686274);
+    background: rgba(247,247,247,1);
+    border: 1px solid rgba(72,66,66,0.7200000286102295);
+}
+
+.webframe-image-0 {
+    width: 55px;
+    height: 39px;
+    flex-grow: 1;
+    position: absolute;
+    top: 28px;
+    left: 323px;
+    border-width: 0px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.pd-onhover-parent >.pd-onhover {
+    display: none;
+}
+
+.pd-onhover-parent:hover > * {
+    display: none;
+}
+
+.pd-onhover-parent:hover > .pd-onhover {
+    display: flex;
+}
+
+.pd-onactive-parent > .pd-onactive {
+    display: none;
+}
+
+.pd-onactive-parent:active > * {
+    display: none;
+}
+
+.pd-onactive-parent:active > .pd-onactive {
+    display: flex;
+}
+
+.pd-onactive-parent.pd-onhover-parent:active > .pd-onhover {
+    display: none;
+}

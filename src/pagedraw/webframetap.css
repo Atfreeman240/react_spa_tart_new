@@ -1,0 +1,206 @@
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One:|Oswald:');
+
+.webframetap-webframetap-0 {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    padding-top: 58px;
+    padding-bottom: 63px;
+    background: rgb(223, 188, 136);
+}
+
+.webframetap-0 {
+    display: flex;
+    flex-shrink: 0;
+    padding-left: 473px;
+    padding-right: 446px;
+}
+
+.webframetap-rectangle-0 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 33px;
+    padding-bottom: 44px;
+    box-shadow: 0px 4px 4px 0px rgba(0,0,0,0.25098039215686274);
+    background: rgba(124,59,59,1);
+}
+
+.webframetap-0-0-0 {
+    display: flex;
+    flex-shrink: 0;
+    padding-left: 172px;
+    padding-right: 120px;
+}
+
+.webframetap-on_tap-0 {
+    width: 229px;
+    flex-shrink: 0;
+    font-family: "Fjalla One", sans-serif;
+    color: rgba(255,255,255,1);
+    font-size: 64px;
+    line-height: 73px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: LEFT;
+    word-wrap: break-word;
+}
+
+.webframetap-1 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 34px;
+    padding-left: 168px;
+    padding-right: 115px;
+}
+
+.webframetap-1-0 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 83px;
+    padding-bottom: 220px;
+}
+
+.webframetap-1-0-0 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.webframetap-signature_move_dark_and_smooth_with_the_pop_of_black_currant_preserved_cherries_and_crisp_red_delicious_apple_1 {
+    width: 518px;
+    flex-shrink: 0;
+    font-family: "Oswald", sans-serif;
+    color: rgba(0,0,0,1);
+    font-size: 30px;
+    line-height: 34px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: LEFT;
+    word-wrap: break-word;
+}
+
+.webframetap-1-0-1 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 42px;
+}
+
+.webframetap-the_devil_pears_red_deep_crimson_cider_made_with_sultry_pomegranate_and_dark_red_anjou_pears_offers_a_wine-line_elegance_without_the_bitterness_1 {
+    width: 518px;
+    flex-shrink: 0;
+    font-family: "Oswald", sans-serif;
+    color: rgba(0,0,0,1);
+    font-size: 30px;
+    line-height: 34px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: LEFT;
+    word-wrap: break-word;
+}
+
+.webframetap-rectangle_2 {
+    width: 14px;
+    height: 719px;
+    flex-shrink: 0;
+    margin-left: 34px;
+    background: rgba(0,0,0,1);
+}
+
+.webframetap-1-2 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 73px;
+    padding-top: 83px;
+    padding-bottom: 220px;
+}
+
+.webframetap-1-2-0 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.webframetap-han_shot_first_a_light_bubbly_brew_with_a_fizzy_raspberry_flavor_and_a_smooth_touch_of_fig_1 {
+    width: 518px;
+    flex-shrink: 0;
+    font-family: "Oswald", sans-serif;
+    color: rgba(0,0,0,1);
+    font-size: 30px;
+    line-height: 34px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: LEFT;
+    word-wrap: break-word;
+}
+
+.webframetap-1-2-1 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 42px;
+}
+
+.webframetap-the_elderberry_scrolls_bright_and_whimsical_with_a_strong_pineapple_overtone_and_a_tartness_that_comes_from_the_granny-smith_apple_base_1 {
+    width: 518px;
+    flex-shrink: 0;
+    font-family: "Oswald", sans-serif;
+    color: rgba(0,0,0,1);
+    font-size: 30px;
+    line-height: 34px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: LEFT;
+    word-wrap: break-word;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.pd-onhover-parent >.pd-onhover {
+    display: none;
+}
+
+.pd-onhover-parent:hover > * {
+    display: none;
+}
+
+.pd-onhover-parent:hover > .pd-onhover {
+    display: flex;
+}
+
+.pd-onactive-parent > .pd-onactive {
+    display: none;
+}
+
+.pd-onactive-parent:active > * {
+    display: none;
+}
+
+.pd-onactive-parent:active > .pd-onactive {
+    display: flex;
+}
+
+.pd-onactive-parent.pd-onhover-parent:active > .pd-onhover {
+    display: none;
+}
