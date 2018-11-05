@@ -10,5 +10,5 @@ demonstrate knowledge of how to create a functional site using React, Git, Githu
 HTML, and Javascript.
 
 # **How to Run**
-Open a command prompt, navigate to the project folder, and use the 'npm start command' to open the website in
+Open a command prompt, navigate to the project folder, and use the npm start command to open the website in
 the browser at http://localhost:3000.
