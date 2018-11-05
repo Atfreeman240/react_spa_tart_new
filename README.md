@@ -6,7 +6,7 @@ Tart Website
 
 # **Project Purpose**
 The Tart website is a website created for an Interface Design II course project to
-demonstrate knowledge of how to create a functional site using React, Git, Github, and sprinkle of CSS,
+demonstrate knowledge of how to create a functional site using React, Git, Github, Gatsby, Pagedraw, Figma, and sprinkle of CSS,
 HTML, and Javascript.
 
 # **How to Run**
